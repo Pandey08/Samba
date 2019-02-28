@@ -1,0 +1,11 @@
+{
+  "HUBBLE_INSTALLATION": "alpha",
+  "COMPONENT_DETAILS": [
+   
+    {
+      "COMPONENT_NAME": "housekeeper",
+      "BUILD_VERSION": "18.8.2",
+      "BUILD_GROUP": "HubbleNext"
+    }
+   ]
+}

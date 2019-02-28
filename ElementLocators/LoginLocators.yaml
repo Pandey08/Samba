@@ -1,0 +1,6 @@
+#Login Page
+
+SAMBA_HEADING: "span[id='headerText']"
+LOGIN_USERNAME: "input[name=j_username]"
+LOGIN_PASSWORD: "input[name=j_password]"
+LOGIN_LET_ME_IN: "input[id=submit]"

@@ -1,0 +1,17 @@
+#Component Page
+
+TOOLS: "//div[contains(text(),'Tools')]"
+BUILD_ACTIONS_TOOLS: "//div[contains(@class,'headerDropdown')]/a[contains(text(),'Build Actions')]"
+COMPONENTS_DROPDOWN: "//div[contains(@class,'item')][contains(text(),'Components')]"
+COMPONENT_STATUS_DROPDOWN: "//div[contains(@class,'item')][contains(text(),'Components')]/div/a[contains(text(),'Component Status')]"
+COMPONENT_STATUS_PAGE: "//span[@id='selectedLink'][contains(text(),'Component Status')]"
+COMPONENTS: "//label[contains(text(),'Components')]"
+SELECT_COMPONENTS_DROPDOWN: "//button/span[contains(text(),'Select Components')]"
+SELECT_COMPONENT: "//ul[contains(@class,'multiselect-container dropdown-menu')]/li/a/label/input[contains(@value,'{0}')]"
+FETCH_BUTTON: "//div[@id='fetchDiv']"
+SELECT_INSTANCE: "//table[@id='componentStatus']/tbody/tr/td/div/input[contains(@type,'checkbox')]"
+SELECT_ACTIONS: "//select[@id='actions']"
+GRACE_INTERVAL: "//input[@id='graceInterval']"
+RESTART_BUTTON: "//input[@value='RESTART']"
+COMPONENT_STATUS_TABLE: "//table[@id='componentStatus']"
+INSTANCE_STATE: "//div[contains(@id,'instanceState')]"

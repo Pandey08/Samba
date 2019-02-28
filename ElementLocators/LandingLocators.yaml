@@ -1,0 +1,5 @@
+#Landing Page
+
+LANDING_HEADING: "span[id='selectedLink']"
+ALL_HUBBLE2: "a[href='/samba/hubble2/ALL/content/html/ScheduleRequests.html']"
+SELECTION_COMPONENT: "a[href='/samba/{0}/content/html/ScheduleRequests.html']"
